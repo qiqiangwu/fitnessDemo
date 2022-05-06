@@ -1,2 +1,2 @@
 export {default as Onbording} from './Onboarding';
-export {default as OnboardingStack} from './navigation';
+export {default as OnboardingNavigator} from './navigation';

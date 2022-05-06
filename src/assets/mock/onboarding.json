@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "Track you routine",
+    "description": "You can track it all with our intuitive interface",
+    "image": "./assets/1.png"
+  },
+  {
+    "id": 1,
+    "title": "Start doing sports",
+    "description": "Exercise can improve your stability and also what is called your kinesthetic awarness",
+    "image": "./assets/2.png"
+  },
+  {
+    "id": 2,
+    "title": "Workout routine planner",
+    "description": "Create your own workout plans personalized to your goals to help you get in shape.",
+    "image": "./assets/3.png"
+  }
+]

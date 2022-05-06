@@ -4,7 +4,7 @@ import Onboarding from './Onboarding';
 
 const Stack = createNativeStackNavigator();
 
-export default function OnboardingStack() {
+export default function OnboardingNavigator() {
   return (
     <Stack.Navigator>
       <Stack.Screen
